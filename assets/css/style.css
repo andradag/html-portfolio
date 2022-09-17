@@ -1,0 +1,27 @@
+.section {
+  background-color: rgb(216, 206, 115);
+  text-decoration: double;
+}
+
+.headers {
+  color: darkblue;
+  text-size-adjust: 50%;
+}
+
+#email {
+  background-color: rgb(199, 220, 41);
+}
+
+#github {
+  background-color: rgb(119, 158, 10);
+}
+
+#portfolio {
+  background-color: rgb(119, 125, 5);
+}
+
+.image {
+  size-adjust: 50%;
+  size: initial;
+  width: 50%;
+}
